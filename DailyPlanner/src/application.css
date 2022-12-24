@@ -1,0 +1,70 @@
+#t1{
+   	 -fx-font:  bold italic 15pt "Comfortaa", #696969;
+   	  -fx-effect: dropshadow( one-pass-box , white, 8 , 0.0 , 2 , 0 );
+    }
+ #tasks{
+   	 -fx-font: bold italic 15pt "Comfortaa", white;
+   	  -fx-effect: dropshadow( one-pass-box , white , 8 , 0.0 , 2 , 0 );
+   	  
+   	  
+    }
+    
+#calendar{
+	 -fx-effect: dropshadow( one-pass-box ,white, 8 , 0.0 , 2 , 0 );
+   	 -fx-font: bold italic 15pt "Comfortaa", #696969;
+    
+}
+  
+  .root{
+  	-fx-background-size: contain, contain, contain, contain, contain, contain;
+  	-fx-background-image:url("https://wallpapercave.com/wp/wp4468334.jpg");
+  }
+  
+  #task_box{
+  	-fx-background-color: #4C5270;
+  	-fx-padding:10px;
+  }
+  
+#off{
+	-fx-background-color: #4C5270;
+ 	-fx-text-fill: white;
+	-fx-padding:5px;
+	}
+ 
+ #on{
+ 	-fx-background-color: #4C5270;
+ 	-fx-text-fill: white;
+ 	-fx-padding:5px;
+ }
+ 
+ #date{
+ 	-fx-padding:15px;
+ }
+
+
+#currentTime{
+	-fx-font-family: 'Bebas Neue', cursive;
+	-fx-font-size: 12px;
+}
+ 
+ #daily{
+ 	-fx-font-family: 'Bebas Neue', cursive;
+ 	-fx-font-size: 50px;
+ }
+ 
+ 
+  #Planner{
+ 	-fx-font-family: 'Bebas Neue', cursive;
+ 	-fx-font-size: 50px;
+ }
+ 
+ #center{
+ 	-fx-padding:30px;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 

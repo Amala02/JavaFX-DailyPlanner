@@ -1,0 +1,80 @@
+#t1{
+   	-fx-fill: white;
+ 	
+   	   -fx-font-family:"Comfortaa";
+    }
+ #tasks{
+   	 -fx-fill: white;
+ 	
+   	  -fx-font-family:"Comfortaa";
+   	  
+   	  
+    }
+    
+#calendar{
+	 -fx-font-family:"Comfortaa";
+   	 -fx-fill: white;
+ 	
+    
+}
+  
+  .root{
+  	-fx-background-size: contain, contain, contain, contain, contain, contain;
+  	-fx-background-image:url("https://i.pinimg.com/originals/78/b0/1f/78b01fb86d09e3ac3360faeb033504a8.jpg");
+  }
+  
+  #task_box{
+  	-fx-background-color: #272927;
+  	-fx-padding:10px;
+  }
+  
+#off{
+	-fx-background-color: #272927;
+ 	-fx-text-fill: white;
+	-fx-padding:5px;
+	}
+ 
+ #on{
+ 	-fx-background-color: #272927;
+ 	-fx-text-fill: white;
+ 	-fx-padding:5px;
+ }
+ 
+ #date{
+ 	-fx-padding:15px;
+ }
+
+
+#currentTime{
+	-fx-font-family: 'Bebas Neue', cursive;
+	-fx-font-size: 12px;
+	-fx-fill: white;
+ 	
+}
+ 
+ #daily{
+ 	-fx-font-family: 'Bebas Neue', cursive;
+ 	-fx-fill:white;
+ 	-fx-stroke:white;
+ 	-fx-font-size:50px;
+ 	
+ }
+ 
+ 
+  #Planner{
+ 	-fx-font-family: 'Bebas Neue', cursive;
+ 	-fx-fill: white;
+ 	-fx-stroke:white;
+ 	-fx-font-size:50px;
+ }
+ 
+ #center{
+ 	-fx-padding:30px;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
